@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Site Title"
+title                    : "Beyond the Mind"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Anastasiia"
+description              : "Driven by Passion"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,54 +115,47 @@ analytics:
 # Site Author
 author:
   name             : "Anastasiia Hryhorzhevska"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Driven by Passion, Inspired by People"
-  location         : "Somewhere"
+  avatar           : /assets/images/site_ui/bio.jpg
+  bio              : "Driven by Passion"
+  location         : # "Somewhere"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:anastasiia.hryhorzhevska@gmail.com"
+    - label: "LinkeIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ahryhorzhevska/"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
+      url: "https://x.com/ahryhorzhevska"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://ahryho.github.com/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-square-facebook"
+    #   # url: "https://facebook.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
+    - label: "LinkeIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ahryhorzhevska/"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
-      # url:
-      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url:
+      url: "https://x.com/ahryhorzhevska"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
+      url: "https://ahryho.github.com/"
+  since: "2026"
 
 
 # Reading Files
