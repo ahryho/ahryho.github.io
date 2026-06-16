@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -124,7 +124,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:anastasiia.hryhorzhevska@gmail.com"
-    - label: "dIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ahryhorzhevska/"
     # - label: "Website"
@@ -146,13 +146,13 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "LinkedIn"
+    - label: "" # "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ahryhorzhevska/"
-    - label: "Twitter"
+    - label: "" # "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
       url: "https://x.com/ahryhorzhevska"
-    - label: "GitHub"
+    - label: "" # "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ahryho"
   since: "2026"
