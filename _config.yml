@@ -114,7 +114,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anastasiia Hryhorzhevska"
+  name             : > 
+    Anastasiia  
+    Hryhorzhevska
   avatar           : /assets/images/site_ui/bio.png
   bio              : "Driven by Passion"
   location         : # "Somewhere"
