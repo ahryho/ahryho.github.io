@@ -124,7 +124,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:anastasiia.hryhorzhevska@gmail.com"
-    - label: "LinkeIn"
+    - label: "dIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ahryhorzhevska/"
     # - label: "Website"
@@ -135,7 +135,7 @@ author:
       url: "https://x.com/ahryhorzhevska"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://ahryho.github.com/"
+      url: "https://github.com/ahryho"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-square-facebook"
     #   # url: "https://facebook.com/"
@@ -146,7 +146,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "LinkeIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ahryhorzhevska/"
     - label: "Twitter"
@@ -154,7 +154,7 @@ footer:
       url: "https://x.com/ahryhorzhevska"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://ahryho.github.com/"
+      url: "https://github.com/ahryho"
   since: "2026"
 
 
@@ -233,6 +233,9 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Pagination with jekyll-paginate
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+
+include:
+  - _pages
 
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
