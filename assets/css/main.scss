@@ -10,8 +10,8 @@ search: false
 
 /* Custom avatar sizing */
 .author__avatar {
-  width: 100px;
-  height: 100px;
+  width: 512px;
+  height: 512px;
 }
 
 /* Footer alignment - change to: left, center, or right */
@@ -19,6 +19,6 @@ search: false
   text-align: center;
 }
 
-page__footer-copyright {
+.page__footer-copyright {
   text-align: center;
 }
