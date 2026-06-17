@@ -10,16 +10,16 @@ search: false
 
 /* Custom avatar sizing */
 .author__avatar {
-  width: 150px;
-  height: 150px;
+  width: 512px;
+  height: 512px;
 }
-.author__avatar img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-  border-radius: 50%;
-}
+// .author__avatar img {
+//   width: 100%;
+//   height: 100%;
+//   object-fit: cover;
+//   display: block;
+//   border-radius: 50%;
+// }
 
 /* Footer alignment - change to: left, center, or right */
 .page__footer-follow,
@@ -30,9 +30,4 @@ search: false
 .page__footer .page__footer-copyright {
   display: block;
   text-align: center !important;
-}
-
-/* Hide the 'Follow' label/button in the author profile */
-.author__urls-wrapper > button {
-  display: none !important;
 }
